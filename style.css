@@ -1,0 +1,36 @@
+body{
+    background-color:#D3C1C3;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color:rgb(85, 85, 85)
+}
+
+#nome{
+    font-family: 'Handlee', cursive;
+    color:#a37b80;
+}
+p{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.cidade{
+    text-decoration:underline;
+}
+#photoshop{
+    font-size: 1.5em;
+}
+#unix{
+    font-size:2em
+}
+h3{
+    color:#a37b80; 
+}
+img{
+    border-radius: 30%;
+}
+a{
+    text-decoration: none;
+    color:#FFFFFF
+}
+a:hover{
+    text-decoration: none;
+    color:#a37b80
+}
