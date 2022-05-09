@@ -34,3 +34,26 @@ a:hover{
     text-decoration: none;
     color:#a37b80
 }
+
+#foto{
+    float:left;
+    padding:20px;
+    background-color: #a37b80; 
+    position: absolute;
+    margin-left:-350px;
+    
+}
+#descricao{
+   height: 300px; 
+   padding:50px;
+   position: relative;
+   margin-left:300px;
+   
+}
+#titulo{
+    text-align: center;
+}
+
+ul li:hover:nth-child(odd) {
+font-family: monospace;
+}
